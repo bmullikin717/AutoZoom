@@ -24,6 +24,22 @@ To use this program, you'll need to download *pyautogui* and *schedule*. Install
 
 ---
 
+### Usage
+
+---
+
+You can have AutoZoom either run in the command prompt, or in the background. To run in the command prompt, open the terminal, navigate to the directory where you stored the files, then run:
+
+> python app.py
+
+To have AutoZoom run in the background, open a terminal and navigate to the directory where the program files are stored, then run:
+
+> pythonw app.py
+
+You can confirm that the file is running in the background by checking **Task Manager**
+
+---
+
 ### About The Project and Author
 
 ---
